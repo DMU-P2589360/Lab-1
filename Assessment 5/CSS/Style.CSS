@@ -1,0 +1,51 @@
+
+
+body{
+Background-color:lightblue;
+
+}
+
+h1,h2,h3,h4{
+  Background-color:pink;
+  color: white;
+text-align: center;
+}
+
+
+h1 {
+  font-size:4em;
+}
+
+h4 {
+  font-size: 1.5em
+}
+
+img{
+  width: 25%;
+  }
+
+p {
+  font-family: sans-serif;
+  font-weight: 550;
+}
+
+ul {
+  font-family: sans-serif;
+  font-weight: 550;
+}
+
+ol {
+  font-family: sans-serif;
+  font-weight: 550;
+}
+
+footer{
+  font-family: sans-serif;
+  font-weight: 500;
+  font-size: 1em
+}
+
+video {
+  width: 25%;
+  height: auto;
+}
